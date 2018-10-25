@@ -1,2 +1,3 @@
-# ARVRTalk
-Notes from Seattle React.js Meetup Talk
+# AR/VR Talk
+
+Notes from Seattle React.js Meetup Talk.
